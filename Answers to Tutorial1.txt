@@ -1,0 +1,57 @@
+Answers to Tutorial1
+
+Note to self: unlike C++, Python is much simpler for input/output statements
+
+1)  >>> 16, 21, 60, 120
+    (16, 21, 60, 120)
+
+2)  >>> 4 + 87
+    91
+
+3)  >>> 8 - 31
+    -23
+
+4)  >>> 5 * 434
+    2170
+
+5)  >>> 38 / 765
+    0.04967320261437908
+
+6)  >>> 876 * 90 / 4 + 54
+    19764.0
+
+7)  >>> (60 * (5 + 9) - 2) / 3
+    279.3333333333333
+
+8)  >>> x = 40 / 10
+    >>> y = 30 * 3
+    >>> x ** y
+    1.532495540865889e+54
+
+9)  >>> print(u"\xA3")
+    £
+
+    >>> 50 / 65.387
+    0.7647598654022637
+
+    >>> 65.387 * 0.7647598654022637
+    50.0
+
+10) >>> "don't"
+    "don't"
+
+11) >>> "He said the following "Hey there, good looking""
+      File "<stdin>", line 1
+        "He said the following "Hey there, good looking""
+                                  ^
+    SyntaxError: invalid syntax
+    (it's a string within a string; doesn't work)
+
+    >>> "He said the following 'Hey there, good looking'"
+    "He said the following 'Hey there, good looking'"
+    (this is the correct way to make it work)
+
+12) >>> myString = "Hello "
+    >>> myString2 = "Don't"
+    >>> myString2 + myString
+    "Don'tHello "
