@@ -1,0 +1,38 @@
+Open up the python IDLE enviroment and from there start this tutorial
+Put all the answers in a seperate txt file and push it to the global repository in your own branch.
+
+1)
+  Start by displaying the numbers 16, 21, 60, 120 on the screen one at a time.
+ 
+2)
+  Print the sum of 4 + 87 to the screen, and write down the answer.
+
+3)
+  Print the difference of 8 - 31 to the screen, and write down the answer.
+
+4)
+  Print the product of 5 * 434 to the screen, and write down the answer.
+
+5)
+  Print the quotient of 38 / 765 to the screen, and write down the answer.
+  
+6)
+  Print the result of 876 * 90 / 4 + 54 to the screen, and write down the answer.
+  
+7)
+  What is going to be printed to the screen? (60 * (5 + 9) - 2) / 3.
+ 
+8)
+  x = 40 / 10, y = 30 * 3 What is x ** y? Print to the console and write down the answer.
+  
+9)
+  Convert £50 to USD (Use variables to store the conversion rate).
+
+10)
+  What is the right use of this string 'don't'?
+
+11)
+  What will display on the screen when you print "He said the following "Hey there, good looking""?
+  
+12)
+  myString = "Hello ", myString2 = "Don't" What does myString2 + myString print? Write down the answer.
